@@ -1,4 +1,4 @@
-# Hi! Sou o Kauan Herbst!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;Sou+o+Kauan+Herbst!&color=FE428E&center=true&size=22)](https://github.com/KauanHerbst)
 
 <div>
   <a href="https://github.com/KauanHerbst">
@@ -19,3 +19,4 @@
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </div>
+
