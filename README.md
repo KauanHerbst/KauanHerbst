@@ -24,9 +24,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=javascript"/>
   <img align="center" src="https://skillicons.dev/icons?i=typescript"/>
   <img align="center" src="https://skillicons.dev/icons?i=java"/>
-  <img align="center" src="https://skillicons.dev/icons?i=python"/>
   <img align="center" src="https://skillicons.dev/icons?i=spring"/>
-  <img align="center" src="https://skillicons.dev/icons?i=nodejs"/>
   <img align="center" src="https://skillicons.dev/icons?i=react"/>
   <img align="center" src="https://skillicons.dev/icons?i=nextjs"/>
   <img align="center" src="https://skillicons.dev/icons?i=mysql"/>
